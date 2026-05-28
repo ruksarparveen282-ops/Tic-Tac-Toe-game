@@ -30,15 +30,10 @@ body{
  font-weight: 600;
  font-size: 8vmin;
  box-shadow: 0 0 1rem rgba(0, 0, 0, 0.3);
- /* color: #b0413e; */
+ color: #b0413e;
  background-color: #ffffc7;
 }
-.box.xcol{
-    color: #346357;
-}
-.box.ocol{
-   color: #b0413e;
-}
+
 .box:hover{
     background-color: #f7e8a4;
     transform: scale(1.02);
