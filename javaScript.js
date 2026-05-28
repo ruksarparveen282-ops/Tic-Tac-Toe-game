@@ -30,7 +30,7 @@ boxes.forEach((box) => {
   box.addEventListener("click", () => {
     if (turnO) {
       //playerO
-        gameturn.innerText="Turn: X";
+       gameturn.innerText="Turn: X";
       box.innerText = "O";
       turnO = false;
     } else {
